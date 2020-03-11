@@ -5,7 +5,7 @@ django-sendgrid is the easiest way to send e-mail with SendGrid. It uses the Sen
 
 Although it's rather simple to use, a example project is included to demonstrate usage.
 
-This repository is an Python 3.5 upgrade of the repo found at http://ryanbalfanz.github.com/django-sendgrid/
+This repository is a Python 3.5 upgrade of the original repo found at http://ryanbalfanz.github.com/django-sendgrid/
 
 
 Installation
