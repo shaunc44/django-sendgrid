@@ -1,6 +1,5 @@
-===============
-django-sendgrid
-===============
+# django-sendgrid (Python 3)
+
 
 django-sendgrid is the easiest way to send e-mail with SendGrid. It uses the SendGrid SMTP API, as recommended.
 
